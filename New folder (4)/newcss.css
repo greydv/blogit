@@ -1,14 +1,13 @@
- .c {min-height: 439%;
-     max-height:600%;
-      width: 25%;
+ .c {min-height: 650%;
+      width: 15%;
       color: white;
       background: black;
       margin-top:-8px;
       margin-left:-8px;
  position: absolute}
- .f{ min-height: 439%;
-     max-height: 600%;
-      width: 25%;
+ .f{ min-height: 650%;
+ 
+      width: 15%;
       color: white;
       background: black;
       margin-top:-8px;
@@ -17,8 +16,8 @@
       right:0px
  }
  .g{min-height: 800px;
-     max-height:600%;
-      width: 30%;
+     max-height:900%;
+      width: 50%;
       color: white;
       background: black;
       margin-top:50px;
@@ -26,9 +25,10 @@
     margin-bottom: auto;
     margin-right: auto;
  position: absolute;
- left:475px}
+ left:350px}
  
- .e{margin: 10px 10px 10px}
+ .e{margin: 10px 10px 10px;
+ margin-left: 150px }
  .q{list-style-type: none;
   margin: 0;
   padding: 0px;
@@ -38,7 +38,7 @@
  left: 475px;
 }
  .i{margin-top: 20px;
- margin-left: 18px
+    margin-left: -30px
  ;margin-bottom:20px;
 border: 2px solid;
 border-color: white }
@@ -68,12 +68,14 @@ border-color: white }
  .r{float: left;
  width: 126px;
  border: 1px solid black }
- .p{margin-top: 50px}
+ .p{margin-top: 50px;
+ margin-right:70px;
+ font-size: 20px}
  .social{height: 100px;
       width: 100%;
       color: white;
       background: #252827;
-      bottom:-354%;
+      bottom:-559%;
       position: absolute;
       margin-left:-8px;
       -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
